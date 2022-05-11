@@ -1,0 +1,26 @@
+{
+    "name": "Theme532",
+    "displayName": "Spews Blue Color Theme",
+    "description": "Just A Theme",
+    "version": "0.0.1",
+    "publisher": "Spew",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Spew45/Theme"
+    },
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spews Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Spews Theme-color-theme.json"
+            }
+        ]
+    }
+}
